@@ -16,3 +16,9 @@
 [![](https://visitcount.itsvg.in/api?id=realayna&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=realayna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
