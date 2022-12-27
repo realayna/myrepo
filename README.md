@@ -18,7 +18,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=realayna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=realayna&&style=flat-square" align="center" />
+</div> 
