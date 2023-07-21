@@ -1,8 +1,12 @@
-# 💫 About Me:
-🌱 I’m currently learning Python, SQL<br>💬 Ask me about Data structures & Algorithms<br>⚡ Fun fact: I code during nights
+💫 Hey, my name is Ayna
+=============================
+ Computer Science student interested in network programming
+--------------------------
+🌱 I’m currently learning C++ network programming<br>💬 Ask me about Data structures & Algorithms & OOP<br>⚡ Fun fact: I code during nights <br> ✉️  You can contact me at [sultanova.ayna0@gmail.com](sultanova.ayna0@gmail.com)
 
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayna-sultanova/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17739512) 
 
 # 💻 Tech Stack:
@@ -21,3 +25,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=realayna&&style=flat-square" align="center" />
 </div> 
+
+### Badges
+
+<a href="https://github.com/realayna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realayna&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
