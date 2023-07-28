@@ -1,6 +1,6 @@
 💫 Hey, my name is Ayna
 =============================
- Computer Science student interested in network programming
+ Computer Science student
 --------------------------
 🌱 I’m currently learning C++ network programming<br>💬 Ask me about Data structures & Algorithms & OOP<br>⚡ Fun fact: I code during nights <br> ✉️  You can contact me at [sultanova.ayna0@gmail.com](sultanova.ayna0@gmail.com)
 
