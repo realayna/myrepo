@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ayna</h2>
-
+<p>Contact me: sultanova.ayna0@gmail.com</p>
 ###
 
 <div align="center">
@@ -22,9 +22,6 @@
 ###
 
 <div align="left">
-  <a href="sultanova.ayna0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ayna-sultanova/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
